@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/moatasem/amit_project/BuildConfig.java
+ com.moatasem.amit_project.BuildConfig
